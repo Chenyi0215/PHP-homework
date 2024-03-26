@@ -1,0 +1,49 @@
+<html>
+<head>
+    <tittle>個人簡歷</tittle>
+</head>
+<body bgcolor="#BEF7FB">
+
+    <center><img src ="img\cy.jpg" width = "500" height = "500"></img></center>
+<h3>關於我</h3>
+<ul>
+    <li>姓名:  <font size = "5" color="pupper">陳宸宇</font></li>
+    <li>學號:  A1103329</li>
+    <li>學校:  國立高雄大學</li>
+    <li>身高:  <font color="red">180cm </font></li>
+    <li>科系:  資訊管理學系</li>
+    <li>興趣:  打籃球,打羽毛球,喝酒,旅行</li>
+    <li>出生地:馬來西亞,檳城</li>
+    <li>性格:  <font color="pupper">偏安靜,但有時又會活潑</li>
+</ul>
+
+<table border="1">
+<tr>
+    <th></th>
+    <th>内容</th>
+</tr>
+<tr>
+    <th>郵件</th>
+    <th>a1103329@mail.nuk.edu.tw</th>
+</tr>
+<tr>
+    <th>聯絡號碼</th>
+    <th>09XXXXXXXX</th>
+</tr>
+<tr>
+    <th>居住地</th>
+    <th>高雄楠梓區xxxxxxxx</th>
+</tr>
+<tr>
+    <th>技能</th>
+    <th>熟悉c ,java,MYSQL,英文不錯 </th>
+</tr>
+<tr>
+    <th>月薪要求</th>
+    <th>4.5萬新臺幣 </th>
+</tr>
+<table>
+
+</body>
+</html>
+</html>
